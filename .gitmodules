@@ -1,0 +1,3 @@
+[submodule "divoc"]
+	path = divoc
+	url = https://git.cccv.de/divoc/bridging-bubbles-design.git
